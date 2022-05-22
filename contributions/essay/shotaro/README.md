@@ -2,7 +2,7 @@
 
 ## Title
 
-How Software bots can interact with DevOps
+Introduction to Software-bots: Slackbots
 
 ## Names and KTH ID
   - Shotaro Ishii (shotaro@kth.se)
@@ -17,4 +17,5 @@ Essay
 
 ## Description
 
-This essay explores some general information regarding DevOps, software bots, as well as other related topics. The goal of the essay is to reveal how Software bots can interact with DevOps beneficially, by investigating the relationship between them.
+In the essay, general introcution to software-bots and slackbots, as well as how Slackbots is used and benefitial
+in devops are planned to be discussed. 
